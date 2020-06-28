@@ -1392,3 +1392,7 @@ button[data-button=add-recommendation] {
 		min-width: 250px;
 	}
 }
+
+#view-leaderboard-ad{
+    display: none;
+}
